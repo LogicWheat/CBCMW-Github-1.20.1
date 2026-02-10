@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "#forge:ingots/carbon_steel",
+      "required": false
+    },
+    {
+      "id": "#c:ingots/carbon_steel",
+      "required": false
+    },
+    {
+      "id": "#c:carbon_steel_ingots",
+      "required": false
+    }
+  ]
+}

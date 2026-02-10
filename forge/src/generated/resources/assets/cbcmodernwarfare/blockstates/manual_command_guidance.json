@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cbcmodernwarfare:block/manual_command_guidance"
+    }
+  }
+}

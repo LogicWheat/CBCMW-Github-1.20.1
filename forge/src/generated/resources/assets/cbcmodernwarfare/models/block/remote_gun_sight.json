@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "cbcmodernwarfare:block/remote_gun_sight"
+  }
+}

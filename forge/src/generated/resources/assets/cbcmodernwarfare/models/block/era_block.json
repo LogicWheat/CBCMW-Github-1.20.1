@@ -1,0 +1,8 @@
+{
+  "parent": "cbcmodernwarfare:block/reactive_block",
+  "textures": {
+    "bottom": "cbcmodernwarfare:block/tiled_reactive_armor_bottom",
+    "particle": "cbcmodernwarfare:block/tiled_reactive_armor",
+    "side": "cbcmodernwarfare:block/tiled_reactive_armor"
+  }
+}

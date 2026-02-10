@@ -1,0 +1,9 @@
+{
+  "parent": "cbcmodernwarfare:block/split_thruster",
+  "textures": {
+    "bottom": "cbcmodernwarfare:block/projectile/solid_fuel_tank_bottom",
+    "particle": "cbcmodernwarfare:block/projectile/solid_fuel_tank_top",
+    "side": "cbcmodernwarfare:block/projectile/solid_fuel_tank",
+    "top": "cbcmodernwarfare:block/projectile/solid_fuel_tank_top"
+  }
+}
